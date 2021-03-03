@@ -1,0 +1,13 @@
+{
+  "name": "soundboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "js/index.Js",
+    "build":"parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
