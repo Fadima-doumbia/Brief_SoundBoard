@@ -69,4 +69,8 @@ button.sound-active {
     width: 50%;
     margin-top: 80px;
   }
+
+  #bg-image-container {
+    display: none;
+  }
 }
